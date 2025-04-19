@@ -1,5 +1,5 @@
 
-'''
+
 # strings
 # string is a data type that stores a sequence of charcters
 
@@ -124,7 +124,7 @@ print("length of your name is " , length)
 str = "Hi , $im the $ symbol "
 print(str.count("$"))
 
-'''
+
 # conditional Statements
 
 age = 21
