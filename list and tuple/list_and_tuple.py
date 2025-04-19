@@ -5,7 +5,7 @@
 
 #Lists are the most common structure in Python for array-like data, with more flixibility
 # so in python arrays => list
-'''
+
 #why we need list
 marks1 = 10.1
 marks2 = 21.2
@@ -114,7 +114,7 @@ list = [3,4,3,2,5]
 list.pop(2)
 print(list)
 
-'''
+
 
 # now topic is 
 
